@@ -78,8 +78,6 @@ class PicManager:
             except Exception as e:
                 print(f"Error resizing {f}: {e}")
 
-
-
         # for filename in os.listdir(dir):
         #     f = os.path.join(dir, filename)
         #     # checking if it is a file
