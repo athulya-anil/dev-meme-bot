@@ -25,7 +25,7 @@ for p in album_path:
 
 # Instagram login
 bot = Client()
-bot.login("your IG username", "your IG password")
+bot.login("dev.memes25", "H3HbShgH3HbShg")
 
 # Caption for the post
 text = "#funnycoder #internmemes #nerdy #codinghumor #vibecoding #100daysofcode #devlife #redditmemes #swe #vibecoder"
